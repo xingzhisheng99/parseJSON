@@ -1,9 +1,6 @@
 ###############################################################
-######### Team: Yishuo Tang and Kaitlyn Mitchell ##############
-######### SER325 DATABASE Final Project Millstone1 ############
 ######### Parsing JSON data and converting to DB ##############
 ###############################################################
-
 
 import urllib2
 import json
